@@ -16,4 +16,4 @@ The process flow diagram I created for this project (seen in Figure 1 of my repo
 
 References:
 
-Kuhn, M., & Johnson, K. (2014, July 25). AppliedPredictiveModeling: Functions and Data Sets for 'Applied Predictive Modeling'. Retrieved October 6, 2017, from https://cran.r- project.org/web/packages/AppliedPredictiveModeling/index.html
+Kuhn, M., & Johnson, K. (2014, July 25). AppliedPredictiveModeling: Functions and Data Sets for 'Applied Predictive Modeling'. Retrieved October 6, 2017, from https://cran.r-project.org/web/packages/AppliedPredictiveModeling/index.html
